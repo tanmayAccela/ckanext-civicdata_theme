@@ -1,0 +1,4 @@
+
+        [ckan.plugins]
+        civicdata_theme=ckanext.civicdata_theme.plugin:Civicdata_ThemePlugin
+    
